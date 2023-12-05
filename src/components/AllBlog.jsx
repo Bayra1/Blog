@@ -20,7 +20,7 @@ function IndividualCard() {
 }
 function LoadMoreButton() {
     return (
-   alert("hey How you doing man !")
+   alert()
     );
 }
 
